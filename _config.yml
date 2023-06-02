@@ -55,3 +55,6 @@ kramdown:
 sass:
   style: compressed
   sourcemap: never
+  
+ 
+theme: jekyll-yamt
